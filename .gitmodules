@@ -1,0 +1,3 @@
+[submodule "roles/squid"]
+	path = roles/squid
+	url = git@github.com:romuloscampini/ansible-role-squid.git

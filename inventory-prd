@@ -1,0 +1,2 @@
+[proxy]
+proxy01 ansible_ssh_host=aws-rs-jenkins ansible_ssh_user=ec2-user
