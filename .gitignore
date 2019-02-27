@@ -5,3 +5,4 @@
 .vscode
 .code
 extra-vars.yml
+*.retry

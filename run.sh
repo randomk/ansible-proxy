@@ -28,6 +28,7 @@ while true; do
         4)
             checkProdServer
             ansible-playbook -i inventory-prd -vv --ask-sudo-pass --extra-vars="@extra-vars.yml" install.yml
+            git checkout inventory-prd
             break;;
         0)
             exit;;
