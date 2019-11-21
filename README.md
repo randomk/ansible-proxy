@@ -12,6 +12,6 @@ Ansible Project to install a proxy server
 1. Clone this repo
 2. Initialize sub-modules:
     * Inside dir of cloned repo, run:  
-        *   `git submodules update --init`
+        *   `git submodule update --init`
 3. Run script  
     * `./run.sh`
