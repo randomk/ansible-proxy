@@ -6,6 +6,7 @@ Ansible Project to install a proxy server
  * Python
  * SSH
  * Git
+ * sudo yum install -y libselinux-python
 
 ## Usage
 
